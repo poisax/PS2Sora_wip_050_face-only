@@ -1,0 +1,536 @@
+title: PS2Sora_wip_050_face-only
+originalAuthor: moddabodda23half and/who is/or SomeSchmuck
+description: "fixed" by deleting xa_ex_0010.mdls.
+this will make the intro sequence use 1.5 textures for low-poly sora but it won't break the stained glass visual. i wish i could properly fix it but that's outside my skillset. for now, this will be far, far less intrusive.
+game: kh1
+specifications: 0
+dependencies: 
+assets:
+- name: remastered\xa_ex_7015.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  multi: 
+  source:
+  - name: remastered\xa_ex_7015.mdls\-1c0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_ex_7015.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  multi: 
+  source:
+  - name: remastered\xa_ex_7015.mdls\-1c1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_ex_7016.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  multi: 
+  source:
+  - name: remastered\xa_ex_7016.mdls\-1c0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_ex_7016.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  multi: 
+  source:
+  - name: remastered\xa_ex_7016.mdls\-1c1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_ex_7018.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  multi: 
+  source:
+  - name: remastered\xa_ex_7018.mdls\-1c0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_ex_7018.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  multi: 
+  source:
+  - name: remastered\xa_ex_7018.mdls\-1c1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_ex_7050.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  multi: 
+  source:
+  - name: remastered\xa_ex_7050.mdls\-1c0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_ex_7050.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  multi: 
+  source:
+  - name: remastered\xa_ex_7050.mdls\-1c2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_lm_0000.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  multi: 
+  source:
+  - name: remastered\xa_lm_0000.mdls\-1c0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_lm_0000.mdls\-2c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  multi: 
+  source:
+  - name: remastered\xa_lm_0000.mdls\-2c0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_lm_0000.mdls\-2c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  multi: 
+  source:
+  - name: remastered\xa_lm_0000.mdls\-2c1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_lm_0000.mdls\-c0.cvbl
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  multi: 
+  source:
+  - name: remastered\xa_lm_0000.mdls\-c0.cvbl
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_ex_7010.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_first
+  multi: 
+  source:
+  - name: remastered\xa_ex_7010.mdls\-1c0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_ex_7010.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_first
+  multi: 
+  source:
+  - name: remastered\xa_ex_7010.mdls\-1c1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_ex_0012.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\xa_ex_0012.mdls\-1c0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_ex_0012.mdls\-2c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\xa_ex_0012.mdls\-2c0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_ex_0012.mdls\-2c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\xa_ex_0012.mdls\-2c1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_ex_0012.mdls\-c0.cvbl
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\xa_ex_0012.mdls\-c0.cvbl
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_ex_0019.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\xa_ex_0019.mdls\-1c0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_ex_0019.mdls\-2c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\xa_ex_0019.mdls\-2c0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_ex_0019.mdls\-2c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\xa_ex_0019.mdls\-2c1.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\xa_ex_0019.mdls\-c0.cvbl
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  multi: 
+  source:
+  - name: remastered\xa_ex_0019.mdls\-c0.cvbl
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
