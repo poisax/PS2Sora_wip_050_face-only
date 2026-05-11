@@ -1,7 +1,10 @@
 title: PS2Sora_wip_050_face-only
 originalAuthor: moddabodda23half and/who is/or SomeSchmuck
-description: "fixed" by deleting xa_ex_0010.mdls.
-this will make the intro sequence use 1.5 textures for low-poly sora but it won't break the stained glass visual. i wish i could properly fix it but that's outside my skillset. for now, this will be far, far less intrusive.
+description: fixed by deleting xa_ex_0010.mdls. this will make the intro sequence use 1.5 textures for low-poly sora but it won't break the stained glass visual. i wish i could properly fix it but that's outside my skillset. for now, this will be far, far less intrusive.
+game: kh1
+title: PS2Sora_wip_050_face-only (KH1PCPATCH)
+originalAuthor: Unknown
+description: This is an automatically generated metadata for this KH1PCPATCH Modification.
 game: kh1
 specifications: 0
 dependencies: 
